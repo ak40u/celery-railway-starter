@@ -22,7 +22,7 @@ This template is that shape, assembled and checked.
 
 ### Deployment Dependencies
 
-- Python 3.13, FastAPI and Celery 5.6
+- Python 3.14, FastAPI and Celery 5.6
 - Redis — broker and result backend
 - Postgres — the record of every job and its outcome
 - [Template source](https://github.com/ak40u/celery-railway-starter)
